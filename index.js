@@ -1,0 +1,1 @@
+export const phoneRegexp = /^1[3456789]{9}$/
